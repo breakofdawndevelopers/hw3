@@ -1,0 +1,118 @@
+﻿
+* {
+    font-family: arial, "Times New Roman", san-serif;
+    color: black;
+}
+
+body {
+    background-image: url("c:/cc6/hw2images/earth-hands.jpg");
+    background-repeat: no-repeat;
+}
+
+#nav {
+    background-color: rgb(126, 71, 193);
+    opacity: 0.5;
+    margin-top: 20px;
+    padding: 10px 0px 5px 0px;
+    text-align: center;
+}
+
+#feature {
+    background-color: #efefef;
+    margin-top: 20px;
+    padding: 10px 0px 5px 0px;
+    text-align: center;
+}
+
+img.align-left {
+    float: left;
+    margin-right: 10px;
+}
+
+img {
+    padding: 20px;
+    border-radius: 100px;
+    border: 5px solid rgb(255, 255, 255);
+    text-align: left;
+    background-color: rgb(126, 71, 193);
+}
+
+table {
+    text-align: center;
+}
+
+
+
+.article {
+    background-color: #efefef;
+    margin-top: 20px;
+    padding: 10px 0px 5 px 0px;
+    text-align: left;
+}
+ul {
+    list-style: circle;
+}
+li {
+    display: inline;
+    padding: 5px;
+    text-align: center;
+}
+
+
+title {
+    text-align: center;
+}
+
+footer {
+    background-color: #efefef;
+    margin-top: 20px;
+    padding: 10px 0px 5 px 0px;
+    text-align: left;
+}
+
+.column1of3, .column2of3, .column3of3 {
+    width: 300px;
+    float: left;
+    margin: 10px;
+    text-align: left;
+}
+
+.column1of3 {
+    background-color: #efefef;
+}
+
+.column3of3 {
+    background-color: #efefef
+}
+
+blockquote {
+    float: right;
+    width: 200px;
+    font-size: 120%;
+    font-style: italic;
+    margin: 0px 0 px 10px 10px;
+    padding: 10px;
+    border-top: 1 px solid #665544;
+    border-bottom: 1 px solid #665544;
+}
+
+h4 {
+    height: 50px;
+}
+
+fieldset {
+    width: 300px;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: right;
+}
+
+legend {
+    background-color: #efefef;
+    border: 1px solid #dcdcdc;
+    border-radius: 10px;
+    padding: 10px 20px;
+    text-transform: uppercase;
+}
+
